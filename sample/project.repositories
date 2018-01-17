@@ -4,7 +4,7 @@
       <include>true</include>
       <metadata>
         <id>local</id>
-        <url>C:\Users\taltal/.m2/repository</url>
+        <url>c:\jspeed\products\maven\bpm6.4\repo\</url>
         <source>LOCAL</source>
       </metadata>
     </repository>
